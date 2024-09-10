@@ -76,3 +76,8 @@ by Singh
 
 
 ---This README gives an overview of your project, how it works, and how users can get started with it.
+
+
+
+[output]:(https://github.com/user-attachments/assets/63563476-856b-49e7-ae64-91add7a936b2)
+
